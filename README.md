@@ -1,5 +1,7 @@
 # ruby_oop_rpg
-Ruby:オブジェクト指向学習のため使用。
+Ruby:オブジェクト指向
+
+Techpitを使用して、Rubyのオブジェクト指向を学習
 
 出典
 
